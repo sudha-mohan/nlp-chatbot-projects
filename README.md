@@ -63,7 +63,7 @@ Test accuracy (the classical models use a 15% test split, 64 records; the LSTM u
 
 | Model | Accident Level | Potential Accident Level |
 | --- | --- | --- |
-| Linear SVC (CountVectorizer) | 78.1% | 39.1% |
+| Linear SVC (CountVectorizer) | 78.1% | 35.9% |
 | Linear SVC (TF-IDF) | 78.1% | 37.5% |
 | Random Forest (CountVectorizer) | 78.1% | 37.5% |
 | Random Forest (TF-IDF) | 78.1% | 37.5% |
