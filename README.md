@@ -2,7 +2,7 @@
 
 **NLP-based classifier that predicts accident risk level from incident descriptions**
 
-> 🎓 Capstone project for the PG Diploma in AI/ML, Great Lakes Institute of Management / Texas McCombs School of Business (2022).
+> 🎓 Capstone project for the PG Diploma in AI/ML, Great Lakes Institute of Management / Texas McCombs School of Business.
 
 ## 📌 Problem Statement
 
